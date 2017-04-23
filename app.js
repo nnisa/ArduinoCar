@@ -1,3 +1,7 @@
+//https://learn.sparkfun.com/tutorials/using-the-bluesmirf/example-code-using-command-mode
+//http://cdn.sparkfun.com/datasheets/Wireless/Bluetooth/bluetooth_cr_UG-v1.0r.pdf
+
+
 'use strict';
 
 const five = require('johnny-five');
