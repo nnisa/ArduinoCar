@@ -103,7 +103,5 @@ io.on('connection', function (socket) {
 
 // });
 
-
-
 server.listen(port);
 console.log(`Server listening on http://localhost:${port}`);
